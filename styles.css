@@ -632,7 +632,7 @@ body {
 .gallery__container {
    position: relative;
 }
-/* .gallery__container::before {
+.gallery__container::before {
    content: "";
    width: 1080px;
    height: 1546px;
@@ -641,7 +641,7 @@ body {
    top: -185px;
    left: -627px;
    z-index: -1;
-} */
+}
 .gallery__body {
    background: rgb(93, 98, 181);
    border-radius: 40px;
