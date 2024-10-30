@@ -15,7 +15,7 @@ body {
    padding: 0 15px;
 }
 .head {
-   background-image: url("../images/head/main-image.jpg");
+   background-image: url("main-image.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -41,11 +41,11 @@ body {
    font-weight: bold;
    line-height: 1.8;
    letter-spacing: 0.01em;
-   background: url("../images/head/icons/access_time_24px.svg") 0 0 / 24px 24px no-repeat;
+   background: url("access_time_24px.svg") 0 0 / 24px 24px no-repeat;
    padding-left: 34px;
 }
 .item-header_phone {
-   background: url("../images/head/icons/phone_24px.svg") 0 0 / 24px 24px no-repeat;
+   background: url("phone_24px.svg") 0 0 / 24px 24px no-repeat;
 }
 .item-header__title {
    text-transform: uppercase;
@@ -221,7 +221,7 @@ body {
    content: "";
    width: 19.70588235294118%;
    height: 45.28571428571429%;
-   background: url("../images/who-we-are/Stylize-Circles.svg") 0 0 / 100% no-repeat;
+   background: url("Stylize-Circles.svg") 0 0 / 100% no-repeat;
    position: absolute;
    top: -15%;
    right: -7.549019607843137%;
@@ -238,7 +238,7 @@ body {
    letter-spacing: 2.5px;
    text-transform: uppercase;
    margin-bottom: 33px;
-   background: url("../images/who-we-are/Overline-Mark.svg") 0 -2px no-repeat;
+   background: url("Overline-Mark.svg") 0 -2px no-repeat;
    padding-left: 32px;
 }
 .titles-block__title {
@@ -262,7 +262,7 @@ body {
    content: "";
    width: 65%;
    height: 84%;
-   background: url("../images/who-we-are/Blob2.svg") 0 0 / 100% no-repeat;
+   background: url("Blob2.svg") 0 0 / 100% no-repeat;
    position: absolute;
    top: -26%;
    left: -10%;
@@ -299,7 +299,7 @@ body {
 }
 .titles-block__label_blue {
    color: rgb(93, 98, 181);
-   background: url("../images/our-promise/Overline-Mark-blue.svg") 0 -2px no-repeat;
+   background: url("Overline-Mark-blue.svg") 0 -2px no-repeat;
 }
 .our-promise__titles:not(:last-child) {
    margin-bottom: 72px;
@@ -353,7 +353,7 @@ body {
    content: "";
    width: 236px;
    height: 317px;
-   background: url("../images/tennis-ball/Stylize-Circles.svg") 0 0 no-repeat;
+   background: url("Stylize-Circles.svg") 0 0 no-repeat;
    position: absolute;
    bottom: 50px;
    left: -230px;
@@ -362,7 +362,7 @@ body {
    content: "";
    width: 494.355469px;
    height: 378.828979px;
-   background: url("../images/tennis-ball/Blob3.svg") 0 0 no-repeat;
+   background: url("Blob3.svg") 0 0 no-repeat;
    position: absolute;
    top: -143px;
    left: -293px;
@@ -378,7 +378,7 @@ body {
    content: "";
    width: 595px;
    height: 387px;
-   background: url("../images/tennis-ball/Line.svg") 0 0 no-repeat;
+   background: url("Line.svg") 0 0 no-repeat;
    position: absolute;
    top: 0;
    right: -117px;
@@ -387,7 +387,7 @@ body {
    content: "";
    width: 135px;
    height: 135px;
-   background: url("../images/tennis-ball/tennis-ball.png") 0 0 no-repeat;
+   background: url("tennis-ball.png") 0 0 no-repeat;
    position: absolute;
    top: 163px;
    right: -206px;
@@ -447,7 +447,7 @@ body {
 /* OUR SERVICES */
 .our-services {
    padding-top: 110px;
-   background-image: url('../images/our-services/Blob.svg');
+   background-image: url('Blob.svg');
    background-repeat: no-repeat;
    background-position: right -150px;
 }
@@ -502,7 +502,7 @@ body {
 /* APPOINTMENT */
 .appointmnent {
    color: #fff;
-   background: url("../images/appointment/background-Image.jpg") top / cover no-repeat;
+   background: url("background-Image.jpg") top / cover no-repeat;
 }
 .appointmnent__container {
    padding-top: 130px;
@@ -518,7 +518,7 @@ body {
    content: "";
    width: 152.8205128205128%;
    height: 145.9375%;
-   background: url("../images/appointment/Blob.svg") 0 0 / 100% no-repeat;
+   background: url("Blob.svg") 0 0 / 100% no-repeat;
    position: absolute;
    z-index: -1;
    top: -8%;
@@ -529,7 +529,7 @@ body {
    content: "";
    width: 57.26495726495726%;
    height: 96.75213675213675%;
-   background: url("../images/appointment/Stylize-Circles.svg") 0 0 / 100% no-repeat;
+   background: url("Stylize-Circles.svg") 0 0 / 100% no-repeat;
    position: absolute;
    bottom: -21.811966%;
    left: -15.04273504273504%;
@@ -636,7 +636,7 @@ body {
    content: "";
    width: 1080px;
    height: 1546px;
-   background: url("../images/our-customers/Blob.svg") 0 0 / 100% no-repeat;
+   background: url("Blob.svg") 0 0 / 100% no-repeat;
    position: absolute;
    top: -185px;
    left: -627px;
@@ -724,7 +724,7 @@ body {
    display: inline-block;
    width: 66.19047619047619%;
    height: 69.857143%;
-   background: url("../images/our-impact/Blob.png") 0 0 / 100% no-repeat;
+   background: url("Blob.png") 0 0 / 100% no-repeat;
    position: absolute;
    top: 0;
    right: -6.857142857142857%;
@@ -865,19 +865,19 @@ body {
    margin-bottom: 11px;
 }
 .list-footer__item_icon-place {
-   background: url("../images/footer-top/place_24px.svg") 0 0 no-repeat;
+   background: url("place_24px.svg") 0 0 no-repeat;
    padding-left: 30px;
 }
 .list-footer__item_icon-smartphone {
-   background: url("../images/footer-top/smartphone_24px.svg") 0 0 no-repeat;
+   background: url("smartphone_24px.svg") 0 0 no-repeat;
    padding-left: 30px;
 }
 .list-footer__item_icon-email {
-   background: url("../images/footer-top/email_24px.svg") 0 0 no-repeat;
+   background: url("email_24px.svg") 0 0 no-repeat;
    padding-left: 30px;
 }
 .list-footer__item_icon-timer {
-   background: url("../images/footer-top/timer_24px.svg") 0 0 no-repeat;
+   background: url("timer_24px.svg") 0 0 no-repeat;
    padding-left: 30px;
 }
 
